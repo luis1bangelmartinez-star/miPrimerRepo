@@ -11,3 +11,5 @@ un commit mas desde github
 aprendi esto gracias a gemini y mi estres
 
 una aztualizacion mas aqui 
+
+aqui haciendo pruebas
