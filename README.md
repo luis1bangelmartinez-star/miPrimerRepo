@@ -12,4 +12,4 @@ aprendi esto gracias a gemini y mi estres
 
 una aztualizacion mas aqui 
 
-aqui haciendo pruebas
+aqui haciendo pruebas en git
