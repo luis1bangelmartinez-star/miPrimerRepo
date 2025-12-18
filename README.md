@@ -13,3 +13,5 @@ aprendi esto gracias a gemini y mi estres
 una aztualizacion mas aqui 
 
 aqui haciendo pruebas en git
+
+otra prueba de nuevo 
